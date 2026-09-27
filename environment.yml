@@ -1,0 +1,15 @@
+name: sentAnalProject_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - imbalanced-learn
+  - scikit-learn
+  - seaborn
+  - scipy
+  - numpy
+  - pandas
+  - ipykernel
+prefix: C:\Users\leedf\miniconda3\envs\sentAnalProject_env

@@ -2,4 +2,7 @@
 .vscode/
 __pycache__/
 *.pyc
-data/
+data\amazon_reviews_us_Apparel_v1_00.csv
+data\amazon_reviews_us_Apparel_v2_00.csv
+data\amazon_reviews_us_Apparel_v2_00.zip
+src\zip.py
